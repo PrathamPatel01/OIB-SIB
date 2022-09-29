@@ -11,6 +11,14 @@ body {
 body, h1{
     font-family: Arial,Helvetica;
     font-style: italic;
+    
+    color: darkblue;
+}
+body, h2{
+    font-family: Arial,Helvetica;
+    font-style: italic;
+
+    color: beige;
 }
 .text-center{
     text-align: center;
